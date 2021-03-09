@@ -1,0 +1,11 @@
+.spansCol{
+    border-style: none;
+    background-color: none;
+    border-radius: 20px;
+    align-self: center;
+    align-items: center;
+}
+
+#indextitles{
+    font-size: 50px;
+}
